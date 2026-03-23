@@ -1,16 +1,130 @@
-## Hi there 👋
+<!-- 3D Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00B4D8,100:0077B6&height=200&section=header&text=Hi%20👋,%20I'm%20Codely%20DS&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<!--
-**codely-ds/codely-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Data Scientist | 🎨 Frontend Developer | ⚙️ Backend Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=900&lines=Welcome+to+my+3D+Animated+GitHub+Profile!;Data+Science+%7C+Frontend+Development+%7C+Backend+Engineering;Building+Smart,+Scalable+%26+Visually+Stunning+Apps;Always+Exploring+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌌 About Me
+
+<img align="right" alt="3D Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+✨ I’m **Codely DS**  
+🧠 **Data Scientist** specializing in analytics and machine learning  
+💻 **Frontend Developer** crafting modern, responsive UIs  
+⚙️ **Backend Developer** building scalable APIs and systems  
+🌱 Passionate about **data-driven innovation** and **clean code architecture**  
+🎯 Focused on **real-world problem solving** with technology  
+
+<br clear="right"/>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jitendra-kumar-b04530265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:codelyds@gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/codely-ds" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,vscode&perline=9&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codely-ds&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=0077B6&text_color=FFFFFF&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codely-ds&theme=transparent&hide_border=true&ring=00B4D8&fire=0077B6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&background=00000000" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codely-ds&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=FFFFFF&bg_color=00000000" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codely-ds&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codely-ds&bg_color=0D1117&color=00B4D8&line=0077B6&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codely-ds/codely-ds/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codely-ds/codely-ds/output/snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/codely-ds/codely-ds/output/snake.svg" />
+  </picture>
+</p>
+
+---
+
+## ✨ 3D Dev Vibes
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=120&section=footer&text=3D%20Animated%20Profile&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codely-ds&label=Profile%20Views&color=00B4D8&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 🎯 Motto
+
+<p align="center">
+  <b>"Code with Purpose. Analyze with Insight. Create with Passion."</b>
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/codely-ds">Codely DS</a>
+</p>
