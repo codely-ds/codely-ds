@@ -1,6 +1,6 @@
 <!-- 3D Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00B4D8,100:0077B6&height=200&section=header&text=Hi%20👋,%20I'm%20Codely%20DS&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00B4D8,100:0077B6&height=200&section=header&text=Hi%20👋,%20I'm%20Codely%20&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">🚀 Data Scientist | 🎨 Frontend Developer | ⚙️ Backend Developer</h3>
