@@ -62,11 +62,17 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codely-ds&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codely-ds&theme=slateorange" />
+</p>
+
+<p align="center">
+  <!-- Commits & Productive Time (Light Green / Orange) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codely-ds&theme=slateorange&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codely-ds&theme=slateorange" />
 </p>
 
 ---
@@ -89,12 +95,8 @@
   </picture>
 </p>
 
----
-
-## ✨ 3D Dev Vibes
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=120&section=footer&text=3D%20Animated%20Profile&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0077B6,100:00B4D8&height=120&section=footer&/>
 </p>
 
 <p align="center">
